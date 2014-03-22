@@ -1,9 +1,5 @@
 
 
-module.exports={
-    url: 'mongodb://localhost/nodeAuth'
-}
-
 module.exports = {
     development:{
         url: 'mongodb://localhost/nodeAuth'

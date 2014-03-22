@@ -1,0 +1,16 @@
+{
+  "name": "node-authentication",
+  "version": "0.0.0",
+  "authors": [
+    "suhashm <mandahasa2626@gmail.com>"
+  ],
+  "description": "node authentication for Local, Twitter, Facebook, Google+",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

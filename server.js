@@ -20,7 +20,7 @@ db.once('open',function callback(){
 });
 
 
-//require('./config/passport')(passport);
+require('./config/passport')(passport);
 
 app.configure(function(){
     // set up our express application
@@ -37,7 +37,7 @@ app.configure(function(){
     app.use(flash()); // use connect-flash for flash messages stored in session
 });
 
-//require('./config/route.js')(app, passport);
+require('./app/routes.js')(app, passport);
 
 app.listen(port);
 console.log("Awesome begins at port "+port);
