@@ -3,15 +3,16 @@
 module.exports = {
 
     'facebookAuth' : {
-        'clientID' 		: 'your-consumer-key-here', // your App ID
-        'clientSecret' 	: 'your-client-secret-here', // your App Secret
+        'clientID' 		: '1573165476241371', // your App ID
+        'clientSecret' 	: 'cae8aca7858070bf8365dc6e039987e9', // your App Secret
         'callbackURL' 	: 'http://floating-island-1816.herokuapp.com/auth/facebook/callback'
         //'callbackURL' 	: 'http://localhost:8080/auth/facebook/callback'
     },
 
     'twitterAuth' : {
-        'consumerKey' 		: 'your-consumer-key-here',
-        'consumerSecret' 	: 'your-client-secret-here',
+        //'consumerKey' 		: 'your-consumer-key-here',
+        'consumerKey' 		: 'WgrEZQ6WOOmBAJVQGrrlzBjK6',
+        'consumerSecret' 	: 'd3LDFQ2BJVEKkQqxgWFRneM6Bu3yShiGOllNZsfOgeZr6fCwau',
         'callbackURL' 		: 'http://localhost:8080/auth/twitter/callback'
         //'callbackURL' 		: 'http://floating-island-1816.herokuapp.com/auth/twitter/callback'
     },
