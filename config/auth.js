@@ -13,8 +13,8 @@ module.exports = {
         //'consumerKey' 		: 'your-consumer-key-here',
         'consumerKey' 		: 'WgrEZQ6WOOmBAJVQGrrlzBjK6',
         'consumerSecret' 	: 'd3LDFQ2BJVEKkQqxgWFRneM6Bu3yShiGOllNZsfOgeZr6fCwau',
-        'callbackURL' 		: 'http://localhost:8080/auth/twitter/callback'
-        //'callbackURL' 		: 'http://floating-island-1816.herokuapp.com/auth/twitter/callback'
+        //'callbackURL' 		: 'http://localhost:8080/auth/twitter/callback'
+        'callbackURL' 		: 'http://floating-island-1816.herokuapp.com/auth/twitter/callback'
     },
 
     'googleAuth' : {
