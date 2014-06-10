@@ -26,7 +26,7 @@
       <file leaf-file-name="routes.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="12" selection-start="1838" selection-end="1838" vertical-scroll-proportion="0.0" vertical-offset="591" max-vertical-offset="1513">
+            <state line="74" column="12" selection-start="2445" selection-end="2445" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1768">
               <folding />
             </state>
           </provider>
@@ -35,16 +35,16 @@
       <file leaf-file-name="index.ejs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="100" selection-start="909" selection-end="909" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="561">
+            <state line="22" column="104" selection-start="1014" selection-end="1014" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Procfile">
+      <file leaf-file-name="login.ejs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/login.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="19" selection-start="19" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+            <state line="47" column="0" selection-start="1407" selection-end="1407" vertical-scroll-proportion="-23.692308" vertical-offset="183" max-vertical-offset="901">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="289">
+            <state line="10" column="0" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="29" max-vertical-offset="850">
+            <state line="16" column="7" selection-start="402" selection-end="402" vertical-scroll-proportion="-10.88" vertical-offset="0" max-vertical-offset="850">
               <folding />
             </state>
           </provider>
@@ -71,16 +71,7 @@
       <file leaf-file-name="auth.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="8" selection-start="722" selection-end="722" vertical-scroll-proportion="0.71391076" vertical-offset="0" max-vertical-offset="561">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="database.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/database.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+            <state line="29" column="0" selection-start="1269" selection-end="1269" vertical-scroll-proportion="0.68662953" vertical-offset="0" max-vertical-offset="718">
               <folding />
             </state>
           </provider>
@@ -89,7 +80,16 @@
       <file leaf-file-name="profile.ejs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/profile.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="20" selection-start="1657" selection-end="1657" vertical-scroll-proportion="-17.461538" vertical-offset="379" max-vertical-offset="1258">
+            <state line="77" column="14" selection-start="2751" selection-end="2751" vertical-scroll-proportion="-25.307692" vertical-offset="651" max-vertical-offset="1513">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="38" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
@@ -98,7 +98,7 @@
       <file leaf-file-name="user.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/user.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="21" selection-start="890" selection-end="890" vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="816">
+            <state line="38" column="21" selection-start="890" selection-end="890" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
@@ -107,12 +107,8 @@
       <file leaf-file-name="passport.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/passport.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="220" column="12" selection-start="9587" selection-end="9587" vertical-scroll-proportion="0.0" vertical-offset="2155" max-vertical-offset="2873">
-              <folding>
-                <element signature="e#3669#3953#0" expanded="false" />
-                <element signature="e#4277#5052#0" expanded="false" />
-                <element signature="e#5743#7550#0" expanded="false" />
-              </folding>
+            <state line="230" column="63" selection-start="10132" selection-end="10132" vertical-scroll-proportion="0.0" vertical-offset="3991" max-vertical-offset="4709">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -137,18 +133,16 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/config/database.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/config/auth.js" />
         <option value="$PROJECT_DIR$/config/passport.js" />
         <option value="$PROJECT_DIR$/app/routes.js" />
         <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/views/profile.ejs" />
-        <option value="$PROJECT_DIR$/config/auth.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1612" />
+    <option name="width" value="1600" />
     <option name="height" value="876" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -239,6 +233,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -319,7 +314,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,10 +322,18 @@
     <property name="options.lastSelected" value="Errors" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -342,23 +344,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -397,14 +391,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
+    <frame x="0" y="0" width="1600" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45295697" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45295697" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1453634" sideWeight="0.547043" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14646465" sideWeight="0.547043" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -447,11 +441,6 @@
         <state line="47" column="0" selection-start="1417" selection-end="1417" vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="901" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/login.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="1407" selection-end="1407" vertical-scroll-proportion="0.0" vertical-offset="799" max-vertical-offset="901" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bcrypt-nodejs/bCrypt.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="634" column="9" selection-start="23420" selection-end="23420" vertical-scroll-proportion="0.0" vertical-offset="10692" max-vertical-offset="12121" />
@@ -485,53 +474,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+        <state line="7" column="38" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="29" max-vertical-offset="850">
+        <state line="16" column="7" selection-start="402" selection-end="402" vertical-scroll-proportion="-10.88" vertical-offset="0" max-vertical-offset="850">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/passport.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="220" column="12" selection-start="9587" selection-end="9587" vertical-scroll-proportion="0.0" vertical-offset="2155" max-vertical-offset="2873">
-          <folding>
-            <element signature="e#3669#3953#0" expanded="false" />
-            <element signature="e#4277#5052#0" expanded="false" />
-            <element signature="e#5743#7550#0" expanded="false" />
-          </folding>
+        <state line="230" column="63" selection-start="10132" selection-end="10132" vertical-scroll-proportion="0.0" vertical-offset="3991" max-vertical-offset="4709">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes.js">
+    <entry file="file://$PROJECT_DIR$/views/login.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="12" selection-start="1838" selection-end="1838" vertical-scroll-proportion="0.0" vertical-offset="591" max-vertical-offset="1513">
+        <state line="47" column="0" selection-start="1407" selection-end="1407" vertical-scroll-proportion="-23.692308" vertical-offset="183" max-vertical-offset="901">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="100" selection-start="909" selection-end="909" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="561">
+        <state line="22" column="104" selection-start="1014" selection-end="1014" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="578">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/profile.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="20" selection-start="1657" selection-end="1657" vertical-scroll-proportion="-17.461538" vertical-offset="379" max-vertical-offset="1258">
+        <state line="77" column="14" selection-start="2751" selection-end="2751" vertical-scroll-proportion="-25.307692" vertical-offset="651" max-vertical-offset="1513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="12" selection-start="2445" selection-end="2445" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1768">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/auth.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="8" selection-start="722" selection-end="722" vertical-scroll-proportion="0.71391076" vertical-offset="0" max-vertical-offset="561">
+        <state line="29" column="0" selection-start="1269" selection-end="1269" vertical-scroll-proportion="0.68662953" vertical-offset="0" max-vertical-offset="718">
           <folding />
         </state>
       </provider>
